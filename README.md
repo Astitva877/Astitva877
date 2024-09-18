@@ -49,4 +49,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Astitva877&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 Thanks for stopping by! 😊
