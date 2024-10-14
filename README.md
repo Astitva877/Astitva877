@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 📈 GitHub Stats
 
 ![Astitva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astitva877&show_icons=true&theme=radical)
+![Astitva's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Astitva877&show_icons=true&theme=radical)
 
 ---
 
